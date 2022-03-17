@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @less-year
-- 👀 I am interested in the front-end: vue, uni-app
-- 🌱 I am currently learning uni-app
+- 👀 I am interested in the front-end: vue, react
+- 🌱 I am currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please send an email to: 215661975@qq.com
 
